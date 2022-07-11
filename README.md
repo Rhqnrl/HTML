@@ -1,4 +1,3 @@
 <html>
-<h1>HTML<h1>
-  <p>☞Yun's HTML Learning</p>
+  <h1>☞Yun's HTML Learning</h1>
 </html>
